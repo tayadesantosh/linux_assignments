@@ -1,1 +1,1 @@
-# linux_assignments
+# linux_assignments All the important commands and scripts
